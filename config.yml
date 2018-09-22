@@ -150,11 +150,11 @@ params:
   # warning: DC143C
   # down: FF8C00
   # notice: 708090
-  brand: 181818
-  ok: 228B22
-  disrupted: FF8C00
-  down: DC143C
-  notice: 708090
+  brand: 014656
+  ok: 009EA9
+  disrupted: FAD956
+  down: F8A602
+  notice: F8F7F5
 
   # If the status page shows that
   # there are disruptions or outages
