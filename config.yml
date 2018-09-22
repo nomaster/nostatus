@@ -44,7 +44,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample App Status
+title: nomaster system status
 
 # What language is this site using?
 # Only alters the html[lang] attribute
@@ -77,13 +77,14 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     -
-      name: Gateway
+      name: Grafana
+      description: Monitoring dashboard
     -
-      name: API
-      description: The guts of the application.
+      name: Prometheus
+      description: Monitoring backend
     -
-      name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
+      name: Office Network
+      description: Internet acccess and Wi-Fi
 
   # What header design should we use?
   #
