@@ -1,8 +1,7 @@
 ---
 title: US East Connection Issues
 date: 2018-05-25 04:13:00
-resolved: true
-resolvedWhen: 2018-05-25 04:40:00
+resolved: false
 # down, disrupted, notice
 severity: disrupted
 affected:
