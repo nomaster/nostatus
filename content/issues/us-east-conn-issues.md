@@ -6,7 +6,7 @@ resolvedWhen: 2018-05-25 04:40:00
 # down, disrupted, notice
 severity: disrupted
 affected:
-  - API
+  - Grafana
 section: issue
 ---
 
